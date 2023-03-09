@@ -1,2 +1,6 @@
 # travel-agency
-Simple three pages long travelling agency website.
+Simple travelling agency website.
+Features include :
+ - Auto-sliding Banner
+ - Validation on Contact Us section
+ - Responsive design
